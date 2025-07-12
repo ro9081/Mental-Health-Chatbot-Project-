@@ -1,8 +1,7 @@
+<img width="765" height="799" alt="image" src="https://github.com/user-attachments/assets/0bc01daa-f6d6-475d-a723-fe363fe71275" />
+
+
 # Mental-Health-Chatbot-Project-
-
-This is an AI-powered Mental Health Chatbot designed to provide supportive, non-judgmental conversations for users experiencing stress, anxiety, or emotional challenges.
-
-Mental-Health-Chatbot
 
 This is an AI-powered Mental Health Chatbot designed to provide supportive, non-judgmental conversations for users experiencing stress, anxiety, or emotional challenges. A supportive AI-powered chatbot designed to provide mental health resources, coping strategies, and a listening ear for those in need. Overview This chatbot serves as a digital mental health companion, offering:
 
@@ -37,6 +36,7 @@ Gemini 1.5 Pro API (LLM)
 Render (Deployment)
 
 Usage Guidelines
+
 Share your thoughts, feelings, or concerns in the chat window Be specific about what you're experiencing for more tailored support Ask for specific resources or techniques if you have preferences Remember that the chatbot works best for non-emergency support
 
 Feedback Your feedback helps improve this service. Please share your experience through the feedback form available in the chatbot interface. Privacy and Data Protection All conversations are confidential. For more information, please review our privacy policy in the application.
