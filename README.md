@@ -1,4 +1,4 @@
-<img width="765" height="799" alt="image" src="https://github.com/user-attachments/assets/0bc01daa-f6d6-475d-a723-fe363fe71275" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0bc01daa-f6d6-475d-a723-fe363fe71275" />
 
 
 # Mental-Health-Chatbot-Project-
