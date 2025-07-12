@@ -13,7 +13,7 @@ Important Disclaimer _ This chatbot is not a replacement for professional mental
 
 24/7 Availability: Access support whenever you need it Confidential Conversations: Your data is handled with care Evidence-Based Approaches: Resources based on established mental health practices User-Friendly Interface: Simple design for stress-free navigation Personalized Support: Adapts to your specific needs and concerns
 
-Key Features
+## Key Features
 💬 Conversational Support: Engages users in supportive mental health discussions using a large language model.
 
 🚨 Crisis Detection System: Identifies high-risk or crisis keywords and responds with pre-defined safety measures.
@@ -26,7 +26,7 @@ Key Features
 
 🌐 Hosted on Render: Easily accessible via a public web link.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python + Flask (Backend)
 
 HTML, CSS, JavaScript (Frontend)
@@ -35,7 +35,7 @@ Gemini 1.5 Pro API (LLM)
 
 Render (Deployment)
 
-Usage Guidelines
+## Usage Guidelines
 
 Share your thoughts, feelings, or concerns in the chat window Be specific about what you're experiencing for more tailored support Ask for specific resources or techniques if you have preferences Remember that the chatbot works best for non-emergency support
 
